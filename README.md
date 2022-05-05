@@ -42,7 +42,7 @@ brownie test tests/test_Simpletoken.py::test_transfer
 brownie test tests/test_Simpletoken.py
 
 #run all tests
-brownie test
+pytest
 ```
 
 ## Brownie Console
