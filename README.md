@@ -65,3 +65,5 @@ Transaction sent: 0x3f113379b70d00041068b27733c37c2977354d8c70cb0b30b0af3087fca9
 >>> t.symbol()
 'TEST'
 ```
+
+inspired and derived from [vw-cli](https://github.com/oceanprotocol/vw-cli) by [trentmc](https://github.com/trentmc) & [Ocean Protocol](https://github.com/oceanprotocol) 
