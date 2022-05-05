@@ -1,6 +1,9 @@
 # brownie-template-lite
 
-A simpler way of coding solidity
+A simpler way of coding solidity.
+
+Use this for fast prototyping, and clean repos that don't bring the mess of hardhat and truffle: keeping your mind space squeeky clean 🧼🧠
+
 # Installation
 
 Ensure pre-requisites:
