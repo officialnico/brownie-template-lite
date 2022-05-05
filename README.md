@@ -2,7 +2,7 @@
 
 A simpler way of coding solidity.
 
-Use this for fast prototyping, and clean repos that don't bring the mess of hardhat and truffle: keeping your mind space squeeky clean 🧼🧠
+Use this for fast prototyping and a clean project
 
 # Installation
 
