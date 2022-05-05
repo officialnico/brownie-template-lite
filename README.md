@@ -13,6 +13,12 @@ Ensure pre-requisites:
 - solc 0.8.0+ [[Instructions](https://docs.soliditylang.org/en/v0.8.9/installing-solidity.html)]
 - ganache. To install: `npm install ganache-cli --global`
 
+Recommended Setup:
+
+- Fish Shell
+- VirtualFish (venv manager)
+- StarShip Cross Shell Prompt
+
 Now, open a new terminal and:
 
 ```console
